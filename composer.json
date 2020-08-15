@@ -1,5 +1,5 @@
 {
-    "name": "sg/module-faq",
+    "name": "sdg/module-faq",
     "description": "FAQ for Magento 2",
     "type": "magento2-module",
     "version": "0.0.1",
@@ -14,7 +14,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "SG\\Faq\\": ""
+            "SDG\\Faq\\": ""
         }
     }
 }
